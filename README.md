@@ -48,9 +48,6 @@
 <a href="[https://www.instagram.com/jaskirat.mokha/](https://www.instagram.com/willy_condori08?igsh=NTdxcG54M3Uzd3Ex)">
   <img align="left" alt="Jaskirat's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://twitter.com/jas_script">
-  <img align="left" alt="Jaskirat's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
-</a>
 <a href="mailto:condoriwilliams23@gmail.com">
   <img align="left" alt="Williams's Email" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
