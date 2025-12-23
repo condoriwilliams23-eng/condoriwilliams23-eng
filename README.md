@@ -42,7 +42,7 @@
   
   ### 📫 Contact
 
-<a href="www.linkedin.com/in/williams-condori-87a283311">
+<a href="https://www.linkedin.com/in/williams-condori-87a283311/">
   <img align="left" alt="Jaskirat's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="[https://www.instagram.com/jaskirat.mokha/](https://www.instagram.com/willy_condori08?igsh=NTdxcG54M3Uzd3Ex)">
